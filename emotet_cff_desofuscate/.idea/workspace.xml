@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5c58df1-d420-432a-9172-0ef2048d6de4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMSfj0jrpwqVkW6zdVCJbQLpiy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="emotet_cff_desobfuscate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="emotet_cff_desofuscate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emotet_cff_desobfuscate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.emotet_cff_desobfuscate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5c58df1-d420-432a-9172-0ef2048d6de4" name="Default Changelist" comment="" />
+      <created>1584647575219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584647575219</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1121" y="134" width="680" height="532" key="#xdebugger.evaluate" timestamp="1585084040103">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state x="1121" y="134" width="680" height="532" key="#xdebugger.evaluate/70.27.1848.838@70.27.1848.838" timestamp="1585084040103" />
+    <state x="251" y="318" width="976" height="511" key="#xdebugger.evaluate/70.27.1850.1053@70.27.1850.1053" timestamp="1584834107962" />
+    <state x="777" y="204" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585312016434">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state x="777" y="204" width="424" height="491" key="FileChooserDialogImpl/70.27.1848.838@70.27.1848.838" timestamp="1585312016434" />
+    <state width="1825" height="136" key="GridCell.Tab.0.bottom" timestamp="1585087990292">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state width="1825" height="136" key="GridCell.Tab.0.bottom/70.27.1848.838@70.27.1848.838" timestamp="1585087990292" />
+    <state width="1827" height="204" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1584838544354" />
+    <state width="1825" height="136" key="GridCell.Tab.0.center" timestamp="1585087990291">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state width="1825" height="136" key="GridCell.Tab.0.center/70.27.1848.838@70.27.1848.838" timestamp="1585087990291" />
+    <state width="1827" height="204" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1584838544334" />
+    <state width="1825" height="136" key="GridCell.Tab.0.left" timestamp="1585087990290">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state width="1825" height="136" key="GridCell.Tab.0.left/70.27.1848.838@70.27.1848.838" timestamp="1585087990290" />
+    <state width="1827" height="204" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1584838544310" />
+    <state width="1825" height="136" key="GridCell.Tab.0.right" timestamp="1585087990291">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state width="1825" height="136" key="GridCell.Tab.0.right/70.27.1848.838@70.27.1848.838" timestamp="1585087990291" />
+    <state width="1827" height="204" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1584838544343" />
+    <state width="1825" height="254" key="GridCell.Tab.1.bottom" timestamp="1585084108578">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state width="1825" height="254" key="GridCell.Tab.1.bottom/70.27.1848.838@70.27.1848.838" timestamp="1585084108578" />
+    <state width="1827" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1584834413164" />
+    <state width="1825" height="254" key="GridCell.Tab.1.center" timestamp="1585084108574">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state width="1825" height="254" key="GridCell.Tab.1.center/70.27.1848.838@70.27.1848.838" timestamp="1585084108574" />
+    <state width="1827" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1584834413157" />
+    <state width="1825" height="254" key="GridCell.Tab.1.left" timestamp="1585084108573">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state width="1825" height="254" key="GridCell.Tab.1.left/70.27.1848.838@70.27.1848.838" timestamp="1585084108573" />
+    <state width="1827" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1584834413152" />
+    <state width="1825" height="254" key="GridCell.Tab.1.right" timestamp="1585084108576">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state width="1825" height="254" key="GridCell.Tab.1.right/70.27.1848.838@70.27.1848.838" timestamp="1585084108576" />
+    <state width="1827" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1584834413160" />
+    <state x="804" y="128" width="1022" height="737" key="SettingsEditor" timestamp="1584648677949">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state x="804" y="128" width="1022" height="737" key="SettingsEditor/70.27.1848.838@70.27.1848.838" timestamp="1584648677949" />
+    <state width="925" height="526" key="XDebugger.FullValuePopup" timestamp="1584735834556">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="925" height="526" key="XDebugger.FullValuePopup/70.27.1850.1053@70.27.1850.1053" timestamp="1584735834556" />
+    <state x="650" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1585086361645">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state x="650" y="273" key="com.intellij.ide.util.TipDialog/70.27.1848.838@70.27.1848.838" timestamp="1585086361645" />
+    <state x="651" y="336" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1584734344511" />
+    <state x="658" y="78" width="662" height="742" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585060868245">
+      <screen x="70" y="27" width="1848" height="838" />
+    </state>
+    <state x="658" y="78" width="662" height="742" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/70.27.1848.838@70.27.1848.838" timestamp="1585060868245" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1584728103788">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1584728103788" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/emotet_cff_desobfuscate.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/emotet_cff_desobfuscate.py</url>
+          <line>234</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/emotet_cff_desobfuscate.py</url>
+          <line>417</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/emotet_cff_desobfuscate.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="node" language="Python" />
+        <watch expression="hex(get_address(cont.loc_db, node.loc_key))" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
