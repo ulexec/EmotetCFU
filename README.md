@@ -1,7 +1,7 @@
 # EmotetCFU
 WIP Emotet Control Flow Unflattening using miasm2 and radare2
 
-# Some expected results
+# Expected results
 ![image](https://raw.githubusercontent.com/ulexec/EmotetCFU/master/resutls.png)
 
 ## TODO
