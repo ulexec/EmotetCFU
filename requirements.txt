@@ -3,7 +3,7 @@ decorator==4.4.2
 future==0.18.2
 kiwisolver==1.1.0
 numpy==1.16.6
-pip==19.0.3
+pip==21.1
 pyparsing==2.4.6
 python-dateutil==2.8.1
 r2pipe==1.4.2
